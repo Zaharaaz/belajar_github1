@@ -1,3 +1,3 @@
 # belajar_github1
-untuk mempelajari cara menggunakan github
-cobaaa
+*untuk mempelajari cara menggunakan github
+*cobaaa
